@@ -1,2 +1,2 @@
-# Primeiro Projeto Git
-Esse é meu primeiro projeto no git
+# TESTE
+Esse é apenas um repositório de teste.
